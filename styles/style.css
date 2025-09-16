@@ -231,7 +231,7 @@ footer {
 
 .whatsapp-float {
   position: fixed;
-  bottom: 80px; /* فوق الفوتر */
+ bottom: 157px; /* فوق الفوتر */
   right: 15px;
   z-index: 10000;
   width: 50px;
